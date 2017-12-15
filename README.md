@@ -94,7 +94,7 @@
 - 下载
     - 百度云盘：<http://pan.baidu.com/s/1bogmTLd>
     
--SeaRan录制
+- SeaRan录制
     - 视频格式：MP4
     - 分辨率：1920 X 1080
     - 片长：16 Min
