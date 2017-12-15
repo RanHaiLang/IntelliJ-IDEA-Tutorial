@@ -93,6 +93,12 @@
     - 文件大小：62 M
 - 下载
     - 百度云盘：<http://pan.baidu.com/s/1bogmTLd>
+    
+-SeaRan录制
+    -视频格式：MP4
+    -分辨率：1920 X 1080
+    -片长：16Min
+    -文件大小：62M
 
 
 ## Github 常用按钮说明
